@@ -1,0 +1,4 @@
+*.osm
+*.log
+*.exe
+.ipynb_checkpoints/
