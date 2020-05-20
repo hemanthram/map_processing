@@ -2,3 +2,4 @@
 *.log
 *.exe
 .ipynb_checkpoints/
+map_data_raw/
