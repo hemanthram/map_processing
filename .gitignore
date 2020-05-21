@@ -2,5 +2,5 @@
 *.log
 *.exe
 .ipynb_checkpoints/
-map_data_raw/
-map_data_processed/
+*.p
+bangalore*
